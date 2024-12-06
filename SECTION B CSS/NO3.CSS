@@ -1,0 +1,12 @@
+.form-container{
+    position: absolute;
+    top: 50px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 20px;
+    justify-content: center;
+    align-items: center;
+    background-color: #89c5fd;
+}
+
+  
